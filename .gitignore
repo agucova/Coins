@@ -112,5 +112,8 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-
+# DB y JSON
+*first.json*
+*users.json*
+*db.sqlite3*
 # End of https://www.gitignore.io/api/django,python
